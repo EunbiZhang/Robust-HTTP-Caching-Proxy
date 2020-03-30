@@ -1,0 +1,199 @@
+0: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" form 71.70.177.233 @ Sat Feb 29 01:10:12 2020
+0: not in cache
+0: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+0: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+0: Responding "HTTP/1.1 200 OK"
+1: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" form 71.70.177.233 @ Sat Feb 29 01:10:12 2020
+1: not in cache
+1: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+1: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+1: Responding "HTTP/1.1 200 OK"
+2: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:16 2020
+2: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+3: "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:16 2020
+3: Requesting "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" from firefox.settings.services.mozilla.com
+4: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:16 2020
+4: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+5: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:16 2020
+5: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+6: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:16 2020
+6: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+7: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:16 2020
+7: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+8: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:17 2020
+8: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+9: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:17 2020
+9: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+10: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:17 2020
+10: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+11: "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:17 2020
+11: Requesting "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" from firefox.settings.services.mozilla.com
+5: Tunnel Closed
+6: Tunnel Closed
+7: Tunnel Closed
+8: Tunnel Closed
+9: Tunnel Closed
+11: Tunnel Closed
+12: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:18 2020
+12: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+13: "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:18 2020
+13: Requesting "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" from firefox.settings.services.mozilla.com
+13: Tunnel Closed
+14: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:18 2020
+14: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+15: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:18 2020
+15: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+16: "CONNECT aus5.mozilla.org:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:20 2020
+16: Requesting "CONNECT aus5.mozilla.org:443 HTTP/1.1" from aus5.mozilla.org
+17: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:20 2020
+17: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+18: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:21 2020
+18: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+19: "CONNECT www.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:49 2020
+19: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com
+20: "CONNECT ssl.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:50 2020
+20: Requesting "CONNECT ssl.gstatic.com:443 HTTP/1.1" from ssl.gstatic.com
+21: "CONNECT www.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:51 2020
+21: Requesting "CONNECT www.gstatic.com:443 HTTP/1.1" from www.gstatic.com
+22: "CONNECT apis.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:52 2020
+22: Requesting "CONNECT apis.google.com:443 HTTP/1.1" from apis.google.com
+23: "CONNECT adservice.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:53 2020
+23: Requesting "CONNECT adservice.google.com:443 HTTP/1.1" from adservice.google.com
+24: "CONNECT ogs.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:53 2020
+24: Requesting "CONNECT ogs.google.com:443 HTTP/1.1" from ogs.google.com
+25: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:10:54 2020
+25: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+4: Tunnel Closed
+0: "CONNECT www.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:25 2020
+0: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com
+1: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:27 2020
+1: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+2: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:27 2020
+3: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:27 2020
+2: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+3: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+4: "CONNECT www.youtube.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:34 2020
+4: Requesting "CONNECT www.youtube.com:443 HTTP/1.1" from www.youtube.com
+5: "CONNECT i.ytimg.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:35 2020
+5: Requesting "CONNECT i.ytimg.com:443 HTTP/1.1" from i.ytimg.com
+6: "CONNECT fonts.googleapis.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:36 2020
+6: Requesting "CONNECT fonts.googleapis.com:443 HTTP/1.1" from fonts.googleapis.com
+7: "CONNECT fonts.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+8: "CONNECT www.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+9: "CONNECT yt3.ggpht.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+10: "CONNECT yt3.ggpht.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+11: "CONNECT fonts.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+10: Requesting "CONNECT yt3.ggpht.com:443 HTTP/1.1" from yt3.ggpht.com
+9: Requesting "CONNECT yt3.ggpht.com:443 HTTP/1.1" from yt3.ggpht.com
+8: Requesting "CONNECT www.gstatic.com:443 HTTP/1.1" from www.gstatic.com
+7: Requesting "CONNECT fonts.gstatic.com:443 HTTP/1.1" from fonts.gstatic.com
+11: Requesting "CONNECT fonts.gstatic.com:443 HTTP/1.1" from fonts.gstatic.com
+12: "CONNECT yt3.ggpht.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+13: "CONNECT yt3.ggpht.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+14: "CONNECT accounts.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+12: Requesting "CONNECT yt3.ggpht.com:443 HTTP/1.1" from yt3.ggpht.com
+13: Requesting "CONNECT yt3.ggpht.com:443 HTTP/1.1" from yt3.ggpht.com
+14: Requesting "CONNECT accounts.google.com:443 HTTP/1.1" from accounts.google.com
+15: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+15: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+16: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:37 2020
+16: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+17: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:38 2020
+17: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+18: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:38 2020
+18: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+16: Responding "HTTP/1.1 200 OK"
+17: Responding "HTTP/1.1 200 OK"
+18: Responding "HTTP/1.1 200 OK"
+8: Tunnel Closed
+11: Tunnel Closed
+10: Tunnel Closed
+13: Tunnel Closed
+19: "CONNECT www.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:39 2020
+19: Requesting "CONNECT www.gstatic.com:443 HTTP/1.1" from www.gstatic.com
+20: "CONNECT s.ytimg.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:39 2020
+21: "CONNECT s.ytimg.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:39 2020
+21: Requesting "CONNECT s.ytimg.com:443 HTTP/1.1" from s.ytimg.com
+20: Requesting "CONNECT s.ytimg.com:443 HTTP/1.1" from s.ytimg.com
+20: Tunnel Closed
+9: Tunnel Closed
+22: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:56 2020
+22: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+23: "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:13:57 2020
+23: not in cache
+23: Requesting "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" from people.duke.edu
+23: Received "HTTP/1.1 304 Not Modified" from people.duke.edu
+23: Responding "HTTP/1.1 304 Not Modified"
+24: "CONNECT r1---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:00 2020
+25: "CONNECT r1---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:00 2020
+26: "CONNECT r1---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:00 2020
+27: "CONNECT r1---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:00 2020
+28: "CONNECT static.doubleclick.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:01 2020
+28: Requesting "CONNECT static.doubleclick.net:443 HTTP/1.1" from static.doubleclick.net
+29: "CONNECT r1---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:01 2020
+30: "CONNECT r1---sn-hjoj-gq0e.googlevideo.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:01 2020
+31: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:14:01 2020
+31: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+31: Responding "HTTP/1.1 200 OK"
+22: Tunnel Closed
+1: Tunnel Closed
+2: Tunnel Closed
+0: "GET http://people.duke.edu/~bmr23/ece568/slides/ERSS_04_Unix_Daemons.pdf HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:20:25 2020
+0: not in cache
+0: Requesting "GET http://people.duke.edu/~bmr23/ece568/slides/ERSS_04_Unix_Daemons.pdf HTTP/1.1" from people.duke.edu
+0: Received "HTTP/1.1 200 OK" from people.duke.edu
+0: Responding "HTTP/1.1 200 OK"
+1: "CONNECT www.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:20:56 2020
+1: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com
+0: "CONNECT www.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:22 2020
+0: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com
+1: "CONNECT ssl.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:23 2020
+1: Requesting "CONNECT ssl.gstatic.com:443 HTTP/1.1" from ssl.gstatic.com
+2: "CONNECT www.gstatic.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:24 2020
+2: Requesting "CONNECT www.gstatic.com:443 HTTP/1.1" from www.gstatic.com
+3: "CONNECT apis.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:25 2020
+3: Requesting "CONNECT apis.google.com:443 HTTP/1.1" from apis.google.com
+4: "CONNECT adservice.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:26 2020
+5: "CONNECT ogs.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:26 2020
+5: Requesting "CONNECT ogs.google.com:443 HTTP/1.1" from ogs.google.com
+4: Requesting "CONNECT adservice.google.com:443 HTTP/1.1" from adservice.google.com
+6: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:27 2020
+6: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+7: "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:38 2020
+7: not in cache
+7: Requesting "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" from people.duke.edu
+7: Received "HTTP/1.1 200 OK" from people.duke.edu
+7: Responding "HTTP/1.1 200 OK"
+8: "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:38 2020
+8: not in cache
+8: Requesting "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" from people.duke.edu
+8: Received "HTTP/1.1 200 OK" from people.duke.edu
+8: Responding "HTTP/1.1 200 OK"
+9: "GET http://people.duke.edu/favicon.ico HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:38 2020
+9: not in cache
+9: Requesting "GET http://people.duke.edu/favicon.ico HTTP/1.1" from people.duke.edu
+9: Received "HTTP/1.1 404 Not Found" from people.duke.edu
+9: Responding "HTTP/1.1 404 Not Found"
+10: "GET http://people.duke.edu/~bmr23/ece568/slides/ERSS_01_Servers_0.pdf HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:41 2020
+10: not in cache
+10: Requesting "GET http://people.duke.edu/~bmr23/ece568/slides/ERSS_01_Servers_0.pdf HTTP/1.1" from people.duke.edu
+10: Received "HTTP/1.1 200 OK" from people.duke.edu
+11: "CONNECT www.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:24:51 2020
+11: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com
+10: Responding "HTTP/1.1 200 OK"
+12: "CONNECT sb-ssl.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:25:02 2020
+13: "CONNECT sb-ssl.google.com:443 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:25:02 2020
+13: Requesting "CONNECT sb-ssl.google.com:443 HTTP/1.1" from sb-ssl.google.com
+12: Requesting "CONNECT sb-ssl.google.com:443 HTTP/1.1" from sb-ssl.google.com
+14: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:25:03 2020
+14: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+15: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:25:03 2020
+15: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+14: Responding "HTTP/1.1 200 OK"
+15: Responding "HTTP/1.1 200 OK"
+13: Tunnel Closed
+16: "GET http://people.duke.edu/~bmr23/ece568/slides/ERSS_03_Web.pdf HTTP/1.1" form 50.226.171.2 @ Sat Feb 29 01:25:10 2020
+16: not in cache
+16: Requesting "GET http://people.duke.edu/~bmr23/ece568/slides/ERSS_03_Web.pdf HTTP/1.1" from people.duke.edu
+16: Received "HTTP/1.1 200 OK" from people.duke.edu
+16: Responding "HTTP/1.1 200 OK"
